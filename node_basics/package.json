@@ -1,0 +1,18 @@
+{
+  "name": "node_basics",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    
+  "console": "node 1_console/console.js",
+  "start": "node 2_os_module/os_example.js",
+  "fs": "node 3_fs_module/fs_example.js",
+  "module": "node 4_custom_modules/app.js",
+   "server": "node 5_http_server/server.js"
+
+  }
+}
